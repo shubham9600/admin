@@ -1,0 +1,28 @@
+#img{
+    font-size: px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    border: 2px solid white;
+   
+    width: 250%;
+    height: 50px;
+    position: relative;
+  right: 130px;
+    top: 70px;
+}
+#Category{
+    position: relative;
+    right: 575px;
+      top: 130px;
+      width: 200%;
+      
+  
+}
+#img2{
+    position: relative;
+    right: 950px;
+      top: 190px;
+      width: 500px;
+}
